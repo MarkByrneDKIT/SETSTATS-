@@ -13,7 +13,7 @@ Added the circuit diagram using fritzing.
 ---
 
 **Date**: 15/10/2021 
-**Author**: Mark Byrne …
+**Author**: Mark Byrne
 
 Details -
 Added some of the prototype images and a little text about how the device connects to the application.
@@ -27,6 +27,14 @@ Fixed up some of the work done by others and deleted some of the text put in for
 
 Details-
 Touched up hardware & data sections, e.g. frequency at which data will be collected.
+
+---
+
+**Date**: 19/10/2021 
+**Author**: Mark Byrne 
+
+Details - 
+Added a experienced lifter user profile, and added simple database tables.
 
 ---
 
