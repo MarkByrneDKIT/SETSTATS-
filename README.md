@@ -44,3 +44,12 @@ Added a experienced lifter user profile, and added simple database tables.
 
 Details- Added User Personas and wrote about what each person did in terms of IoT aspect
 
+---
+
+**Date**: 20/10/2021 
+**Author**: Mark Byrne
+
+Deatials -
+ Updated table of contents, wrote description for each page in paper prototype, explained database tables
+
+
