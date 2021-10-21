@@ -69,3 +69,10 @@ Deatials -
  Updated table of contents, wrote description for each page in paper prototype, explained database tables
 
 
+**Date**: 21/10/2021
+**Author**: Florian Scheunert
+
+Details-
+Expanded the testing-section. Splitted in Software-Testing, Hardware-Testing and User-Testing.
+Added more details.
+
