@@ -68,6 +68,7 @@ Details- Added User Personas and wrote about what each person did in terms of Io
 Deatials -
  Updated table of contents, wrote description for each page in paper prototype, explained database tables
 
+---
 
 **Date**: 21/10/2021
 **Author**: Florian Scheunert
