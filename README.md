@@ -76,4 +76,10 @@ Deatials -
 Details-
 Expanded the testing-section. Splitted in Software-Testing, Hardware-Testing and User-Testing.
 Added more details.
+---
 
+**Date**: 21/10/2021 
+**Author**: Mark Byrne
+
+Deatials -
+ Added MoSCoW and ER diagram and fixed layout a little bit.
