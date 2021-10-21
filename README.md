@@ -13,6 +13,15 @@ Added the circuit diagram using fritzing.
 
 ---
 
+**Date**: 15/10/2021
+**Author**: Florian Scheunert
+
+Details -
+Added a bit more detailed description of how we going to test the functionality and how thats going to help improve
+the user experience and usage of our application
+
+---
+
 **Date**: 15/10/2021 
 **Author**: Mark Byrne
 
@@ -36,6 +45,12 @@ Touched up hardware & data sections, e.g. frequency at which data will be collec
 
 Details - 
 Added a experienced lifter user profile, and added simple database tables.
+
+---
+
+**Date**: 19/10/2021
+**Author**: Florian Scheunert
+Added a casual user profile
 
 ---
 
