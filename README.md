@@ -50,6 +50,7 @@ Added a experienced lifter user profile, and added simple database tables.
 
 **Date**: 19/10/2021
 **Author**: Florian Scheunert
+
 Added a casual user profile
 
 ---
