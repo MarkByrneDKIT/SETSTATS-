@@ -51,6 +51,7 @@ Added a experienced lifter user profile, and added simple database tables.
 **Date**: 19/10/2021
 **Author**: Florian Scheunert
 
+Details- 
 Added a casual user profile
 
 ---
@@ -58,7 +59,8 @@ Added a casual user profile
 **Date**: 19/10/2021 
 **Author**: Richard Collins
 
-Details- Added User Personas and wrote about what each person did in terms of IoT aspect
+Details- 
+Added User Personas and wrote about what each person did in terms of IoT aspect
 
 ---
 
@@ -66,16 +68,17 @@ Details- Added User Personas and wrote about what each person did in terms of Io
 **Author**: Mark Byrne
 
 Deatials -
- Updated table of contents, wrote description for each page in paper prototype, explained database tables
+Updated table of contents, wrote description for each page in paper prototype, explained database tables
 
 ---
 
 **Date**: 21/10/2021
 **Author**: Florian Scheunert
 
-Details-
+Details - 
 Expanded the testing-section. Splitted in Software-Testing, Hardware-Testing and User-Testing.
 Added more details.
+
 ---
 
 **Date**: 21/10/2021 
@@ -83,3 +86,11 @@ Added more details.
 
 Deatials -
  Added MoSCoW and ER diagram and fixed layout a little bit.
+ 
+ ---
+ 
+**Date**: 22/10/2021
+**Author**: Richard Collins
+
+Details - 
+Added python file with prototype code, where data is being collected from sensors
